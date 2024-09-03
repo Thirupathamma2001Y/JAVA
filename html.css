@@ -1,0 +1,30 @@
+<html>
+<head>
+<style>
+h1{
+color:red;
+background:green;
+}
+p{
+text-align:center;
+font-size:30px;
+font-style:italic;
+letter-spacing:1px;
+line-height:1.5;
+}
+</style>
+
+<body>
+<h1> about ths css style </h1>
+
+<p> css styles are calassiefied into 3 types they are 1 inline styles 2.
+internal styles
+3.extrnal styles </p>
+
+<h1> about ths css selector </h1>
+<p> css styles are calassiefied into 3 types they are 1 elements selector 2.
+class selector
+3.id selector </p>
+
+</body>
+</html>
